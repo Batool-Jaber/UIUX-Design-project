@@ -73,5 +73,5 @@ I designed a mobile app that allows users to:
 ---
 
 ## 🔗 Links
-- Figma Portfolio: [PUT LINK]
-- LinkedIn: [PUT LINK]
+- Figma Portfolio: [https://www.figma.com/design/6nyfhEKjJS2ojJ3nIFGqi9/Untitled?node-id=68-175&t=5amgus9mVzKGSGbl-1]
+- LinkedIn: [https://www.linkedin.com/in/batool-jaber/]
