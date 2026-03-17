@@ -62,20 +62,6 @@ I designed a mobile app that allows users to:
 ### Tools Used
 - Figma
 
-### Screens
-![Screen](modepack-app/images/screen1.png)
-
-### Figma Link
-[View Project](PUT YOUR FIGMA LINK HERE)
-
----
-
-### Screens
-![Screen](smart-bottle-app/images/screen1.png)
-
-### Figma Link
-[View Project](PUT YOUR FIGMA LINK HERE)
-
 ---
 
 ## 💡 What I Learned
