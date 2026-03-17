@@ -4,6 +4,8 @@
 This repository showcases my UI/UX design projects created using Figma.  
 I focused on solving real-world problems by combining functionality with modern, user-friendly design.
 
+<img src="simple portfolio.png" width="800">
+
 ---
 
 ## 📌 Project 1: Smart Water Bottle App
